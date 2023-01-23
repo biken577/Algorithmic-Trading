@@ -1,2 +1,2 @@
 # Algorithmic-Trading-Strategies
-This repo contains the several algorithmic trading strategies.
+This repo contains several algorithmic trading strategies.
